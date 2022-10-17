@@ -8,7 +8,7 @@ The most basic usage will be without any inputs, which will default to `version:
 
 ```yml
 steps:
-  - uses: BoundfoxStudios/xcode-select@v1
+  - uses: BoundfoxStudios/action-xcode-select@v1
 ```
 
 If you want to pin a specific version, specify it with the `version` input.
@@ -26,7 +26,7 @@ To test with an Xcode Beta release, use the `beta` input:
 ```yml
 steps:
   - name: "Select the last available Xcode Beta"
-    uses: BoundfoxStudios/xcode-select@v1
+    uses: BoundfoxStudios/action-xcode-select@v1
     with:
       beta: true
 ```
