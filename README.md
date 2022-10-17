@@ -16,7 +16,7 @@ If you want to pin a specific version, specify it with the `version` input.
 ```yml
 steps:
   - name: "Select the latest stable Xcode 12"
-    uses: BoundfoxStudios/xcode-select@v1
+    uses: BoundfoxStudios/action-xcode-select@v1
     with:
       version: "12"
 ```
