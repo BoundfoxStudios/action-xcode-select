@@ -22,7 +22,7 @@ branding:
   icon: "command"
   color: "blue"
 
-name: "Xcode Select"
+name: "Apple Xcode Select"
 description: "Select a version of Xcode"
 
 inputs:
