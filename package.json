@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/actions/typescript-action.git"
+    "url": "git+https://github.com/BoundfoxStudios/action-xcode-select.git"
   },
   "keywords": [
     "actions",
